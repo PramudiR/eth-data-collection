@@ -39,7 +39,7 @@ The extracted gas price values will be stored in separate CSV files, one file fo
 | ...           | ...              |
 
 ## Configuration
-You can modify **' gasDataCollector.go'** file to customize the behavior of the Ethereum Gas Price Extractor.
+You can modify **'gasDataCollector.go'** file to customize the behavior of the Ethereum Gas Price Extractor.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
